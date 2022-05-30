@@ -1,0 +1,19 @@
+/*
+Stamatia Markella Printzou (214675)
+May 30, 2022 
+*/
+
+body {
+    background-color: white;
+  }
+  
+h1, h2, h3, h4, h5 {
+    color: black;
+    text-align: center;
+}
+
+p {
+    color: black;
+    font-family: georgia;
+    font-size: 120%;
+} 
