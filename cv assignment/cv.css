@@ -12,7 +12,7 @@ May 30, 2022
 }
 
 body {
-    background-color: #cecece;
+    background-color: whitesmoke;
 }
 
 .cv-contents {
@@ -50,7 +50,7 @@ body {
 }
 
 .name {
-    color: whitesmoke;
+    color: rgb(225, 225, 225);
     font-size: 30px;
     letter-spacing: 2px;
     text-transform: uppercase;
